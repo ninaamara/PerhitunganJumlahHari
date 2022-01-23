@@ -1,0 +1,6 @@
+bila projek error atau berwarna merah 
+resolve projek dan add librarynya
+setalah itu aplikasi akan dapat di jalankan nornal
+tapi saya faham bapak sudah memiliki library unruk ireport dan mysql-connectot-jdbc
+
+jadi saya menambahkan library servlet-api.jar jika tidak ada di laptopnya.
